@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbloom=self.webpackChunkbloom||[]).push([[630],{630:(e,s,l)=>{l.r(s),l.d(s,{default:()=>b});l(43);var o=l(579);const b=()=>(0,o.jsx)("div",{children:"boxing"})}}]);
+//# sourceMappingURL=630.778e807f.chunk.js.map
