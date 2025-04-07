@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbloom=self.webpackChunkbloom||[]).push([[106],{106:(e,s,l)=>{l.r(s),l.d(s,{default:()=>a});l(43);var c=l(579);const a=()=>(0,c.jsx)("div",{children:"self care"})}}]);
-//# sourceMappingURL=106.03d916bc.chunk.js.map
