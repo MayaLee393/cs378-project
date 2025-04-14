@@ -1,5 +1,6 @@
 import React, { Suspense } from 'react';
 import { useParams } from 'react-router-dom';
+import CompleteButton from '../components/CompleteButton';
 
 const ActivityPage = () => {
   const { activityName } = useParams();
@@ -11,6 +12,7 @@ const ActivityPage = () => {
       <Suspense fallback={<div>Loading...</div>}>
         <ActivityComponent />
       </Suspense>
+      <CompleteButton/>
     </div>
   );
 };

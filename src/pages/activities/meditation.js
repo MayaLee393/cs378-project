@@ -97,8 +97,6 @@ const Meditation = () => {
           </button>
         ))}
       </div>
-
-      <CompleteButton />
     </div>
     </>
   );
